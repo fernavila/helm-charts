@@ -3,7 +3,17 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-25T19:16:55.302109703-05:00"
+    created: "2025-03-25T19:38:02.632177221-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 35c4012776efedab3c9f2f974e2a303e61d92c1c0732fff164ae5ca4f1851bf9
+    name: mychart
+    type: application
+    urls:
+    - https://fernavila.github.io/helm-charts/mychart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-25T19:38:02.631481617-05:00"
     description: A Helm chart for Kubernetes
     digest: 0c4b44194a342cd01d1e7507fa706fea27ccf4b5e6e83dd9cb52c90ff0f8eb4e
     name: mychart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://fernavila.github.io/helm-charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-25T19:16:55.30110091-05:00"
+generated: "2025-03-25T19:38:02.630516583-05:00"
